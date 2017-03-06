@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">國立暨南國際大學導覽APP</string>
+    <string name="text1">我的位置</string>
+    <string name="text2">地圖</string>
+    <string name="text3">類別</string>
+    <string name="text4">參與其中</string>
+    <string name="text5">新聞</string>
+</resources>
